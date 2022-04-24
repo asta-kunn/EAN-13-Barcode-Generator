@@ -15,5 +15,6 @@ Your program has to do the following steps:
     
     4. Print on screen (canvas) the correct EAN barcode for the 12 input digits and the 
     checkdigit. The image is also written to the file from Step (1) in the PostScript 
-    format. Your barcode should consist of at least four different colors, like the 
-    examples given below.
+    format. Your barcode should consist of at least four different colors.
+     
+
